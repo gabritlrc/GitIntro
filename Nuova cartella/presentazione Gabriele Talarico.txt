@@ -1,0 +1,3 @@
+Nome e cognome: Gabriele Talarico
+età:20 anni
+gioco preferito: pokemon nero
